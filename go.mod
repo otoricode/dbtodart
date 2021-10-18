@@ -10,6 +10,7 @@ require (
 )
 
 require (
+	github.com/gertd/go-pluralize v0.1.7 // indirect
 	github.com/go-sql-driver/mysql v1.6.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.2 // indirect
